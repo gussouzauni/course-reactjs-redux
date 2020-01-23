@@ -3,8 +3,3 @@
 ## Anotações
 
 -   Estilização: styled-components
--
--
--
--
--
